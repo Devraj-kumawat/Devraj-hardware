@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "vite build",s
+    "build": "vite build",
     "start": "vite preview"
   },
   "dependencies": {
