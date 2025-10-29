@@ -41,7 +41,7 @@ function Footer() {
                     </div>
                 </div>
                 <div className="copyRight">
-                    &copy; Arshit Enterprises. All irights reserved.
+                    &copy; Devraj Enterprises. All irights reserved.
                 </div>
             </div>
         </div>
