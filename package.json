@@ -4,5 +4,10 @@
   },
   "devDependencies": {
     "vite": "^7.1.12"
-  }
+  },
+  "scripts": {
+  "dev": "next dev",          // For Next.js
+  "build": "next build",
+  "start": "next start"
+}
 }
