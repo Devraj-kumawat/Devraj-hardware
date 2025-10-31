@@ -31,7 +31,7 @@ function Login() {
 
     const handleSignin = async (e) => {
         try {
-            const { data } = await axios.post('https://devraj-hardware.onrender.com/signin', {
+                await axios.post('https://devraj-hardware.onrender.com/signup', {
                 username: username,
                 email: email,
                 password: password
