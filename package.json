@@ -5,6 +5,7 @@
   "test": "react-scripts test"
   },
   "dependencies": {
+    "react-scripts": "5.0.1"
     "audit": "^0.0.6",
     "pg": "^8.16.3",
     "vite": "^7.1.12"
