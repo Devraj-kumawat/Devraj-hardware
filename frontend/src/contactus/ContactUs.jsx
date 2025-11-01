@@ -17,7 +17,7 @@ function ContactUs() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            await axios.post('https://arshit-enterprises-backend.onrender.com/sendEmail', {
+            await axios.post('https://devraj-hardware.onrender.com/sendEmail', {
                 name: name,
                 email: email,
                 subject: subject,
